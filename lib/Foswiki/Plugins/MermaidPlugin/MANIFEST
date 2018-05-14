@@ -1,0 +1,6 @@
+!noci
+data/System/MermaidPlugin.txt 0644 Documentation page
+data/System/VarEXAMPLETAG.txt 0644 Tag documentation
+data/Sandbox/PluginTestMermaidPlugin.txt 0644 Examples
+lib/Foswiki/Plugins/MermaidPlugin.pm 0444 Perl module
+lib/Foswiki/Plugins/MermaidPlugin/Config.spec 0444 Configuration

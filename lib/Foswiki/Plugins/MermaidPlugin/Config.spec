@@ -1,0 +1,3 @@
+# ---+ Extensions
+# ---++ MermaidPlugin
+1;
